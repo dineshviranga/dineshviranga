@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dineshviranga
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning wordpress web development
-- 💞️ I’m looking to collaborate on web developing
+- 👀 I’m interested in crypto development and investment
+- 🌱 I’m currently working on deFI project (VLX)
+- 💞️ I’m looking for Holders and investors 
 - 📫 How to reach me dineshviranga@yahoo.com
 
 <!---
